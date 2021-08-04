@@ -15,7 +15,7 @@ android {
 
         //minimum SDK version on which the app  can be installed and run
         //sdk 21 : Android 5.0(Lollipop)
-        minSdkVersion 21
+        minSdkVersion 22
 
         //Target SDK for which the app is compiled
         //sdk 25 : Android 7.1(Nougat)
