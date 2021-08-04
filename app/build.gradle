@@ -59,7 +59,8 @@ dependencies {
 
     //Picasso library dependency
     compile 'com.squareup.picasso:picasso:2.5.2'
-
+    implementation 'com.google.firebase:firebase-inappmessaging-display:17.2.0'
+    implementation 'com.google.guava:guava:25.3.1-android'
     //google client for android api dependency
     //excluding org.apache.httpcomponents so as to resolve anonymity
     compile('com.google.api-client:google-api-client-android:1.23.0') {
